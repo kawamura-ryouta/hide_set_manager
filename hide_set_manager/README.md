@@ -7,7 +7,7 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ## スクリーンショット（Screenshots）
 
 ### 1. メイン UI
-![main_ui](メインUI.png)
+![メインUI](screenshots/main_ui.png)
 
 ---
 
@@ -180,6 +180,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
