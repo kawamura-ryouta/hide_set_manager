@@ -30,7 +30,7 @@ Blenderでは一時的な非表示操作が多用されますが、
 
 ## リポジトリ構成
 hide_set_manager/
-├ init.py
+├ __init__.py
 ├ core/ # データ構造・永続ID・差分処理
 ├ ui/ # UIパネル・オペレーター
 ├ utils/ # ログ・安全なBMesh操作
