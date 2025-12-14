@@ -7,12 +7,16 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ## スクリーンショット（Screenshots）
 
 ### 1. メイン UI
-![main_ui](../README_picture/main_ui.png)
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/main_ui.png" style="width: 100%;">
+</div>
 
 ---
 
 ### 2. 非表示セットの登録（＋）
-![register_set](../README_picture/register_set.png)
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/register_se" style="width: 100%;">
+</div>
 
 ---
 
@@ -24,26 +28,33 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 
 **After（表示 / トグル適用）**
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/after_hide.png" style="width: 100%;">
+  <img src="../README_picture/before_hide.png" style="width: 100%;">
 </div>
 
 ---
 
 ### 4. 差分同期（Sync）
 **差分が発生する例**
-![sync_case](../README_picture/sync_case.png)
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/sync_case" style="width: 100%;">
+</div>
 
 **⚠ 差分あり（未同期）**
-![sync_warning](../README_picture/sync_warning.png)
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/sync_warning" style="width: 100%;">
+</div>
 
 **✓ 同期後（解決）**
-![sync_resolved](../README_picture/sync_resolved.png)
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/sync_resolved" style="width: 100%;">
+</div>
 
 ---
 
 ### 5. JSON Export
-![json_export](../README_picture/json_export.png)
-
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/json_export" style="width: 100%;">
+</div>
 
 ---
 
@@ -184,6 +195,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
