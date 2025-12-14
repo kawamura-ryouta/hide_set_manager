@@ -12,33 +12,32 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ---
 
 ### 2. 非表示セットの登録（＋）
-![register_set](＜ここに2枚目の画像URL＞)
+![register_set](../README画像/非表示セットの登録/非表示セットの登録.png)
 
 ---
 
 ### 3. 表示 / 非表示 / トグルの実例
 **Before（非表示）**
-![before_hide](＜3枚目の画像URL＞)
+![before_hide](../README画像/表示_非表示_トグルの実例/適用：Before.png)
 
 **After（表示 / トグル適用）**
-![after_hide](＜4枚目の画像URL＞)
+![after_hide](../README画像/表示_非表示_トグルの実例/適用：After.png)
 
 ---
 
 ### 4. 差分同期（Sync）
 **⚠ 差分あり（未同期）**
-![sync_warning](＜5枚目の画像URL＞)
+![sync_warning](../README画像/差分同期（Sync）の「警告 → 解決」/Before：差分あり（⚠）.png)
 
 **✓ 同期後（解決）**
-![sync_resolved](＜6枚目の画像URL＞)
+![sync_resolved](../README画像/差分同期（Sync）の「警告 → 解決」/After：同期後（✓）.png)
 
 **差分が発生する例**
-![sync_case](＜7枚目の画像URL＞)
-
+![sync_case](../README画像/差分同期（Sync）の「警告 → 解決」/差分が発生するケース.png)
 ---
 
 ### 5. JSON Export
-![json_export](＜8枚目の画像URL＞)
+![json_export](../README画像/JSON Export の画面/JSON Export の画面.png)
 
 
 ---
@@ -180,6 +179,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
