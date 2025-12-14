@@ -18,10 +18,10 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 
 ### 3. 表示 / 非表示 / トグルの実例
 **Before（非表示）**
-![before_hide](../before_hide.png)
+![before_hide](../README_picture/before_hide.png)
 
 **After（表示 / トグル適用）**
-![after_hide](../after_hide.png)
+![after_hide](../README_picture/after_hide.png)
 
 ---
 
@@ -180,6 +180,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
