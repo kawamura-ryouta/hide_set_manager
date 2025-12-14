@@ -7,7 +7,7 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ## スクリーンショット（Screenshots）
 
 ### 1. メイン UI
-![メインUI](screenshots/README画像/メイン UI 全体/メインUI.png)
+![メインUI](screenshots/メインUI.png)
 
 ---
 
