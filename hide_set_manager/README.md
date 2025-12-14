@@ -36,24 +36,24 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ### 4. 差分同期（Sync）
 **差分が発生する例**
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/sync_case" style="width: 100%;">
+  <img src="../README_picture/sync_case.png" style="width: 100%;">
 </div>
 
 **⚠ 差分あり（未同期）**
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/sync_warning" style="width: 100%;">
+  <img src="../README_picture/sync_warning.png" style="width: 100%;">
 </div>
 
 **✓ 同期後（解決）**
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/sync_resolved" style="width: 100%;">
+  <img src="../README_picture/sync_resolved.png" style="width: 100%;">
 </div>
 
 ---
 
 ### 5. JSON Export
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/json_export" style="width: 100%;">
+  <img src="../README_picture/json_export.png" style="width: 100%;">
 </div>
 
 ---
@@ -195,6 +195,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
