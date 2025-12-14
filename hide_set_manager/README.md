@@ -7,33 +7,33 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ## スクリーンショット（Screenshots）
 
 ### 1. メイン UI
-![メインUI](../README画像/メインUI.png)
+![メインUI](../main_ui.png)
 
 ---
 
 ### 2. 非表示セットの登録（＋）
-![register_set](../README画像/非表示セットの登録.png)
+![register_set](../register_set.png)
 
 ---
 
 ### 3. 表示 / 非表示 / トグルの実例
 **Before（非表示）**
-![before_hide](../README画像/表示_非表示_トグルの実例/適用：Before.png)
+![before_hide](../before_hide.png)
 
 **After（表示 / トグル適用）**
-![after_hide](../README画像/表示_非表示_トグルの実例/適用：After.png)
+![after_hide](../after_hide.png)
 
 ---
 
 ### 4. 差分同期（Sync）
 **差分が発生する例**
-![sync_case](../README画像/差分が発生するケース.png)
+![sync_case](../sync_case.png)
 
 **⚠ 差分あり（未同期）**
-![sync_warning](../README画像/差分が発生するケス.png)
+![sync_warning](../sync_warning.png)
 
 **✓ 同期後（解決）**
-![sync_resolved](../README画像/差分同期（Sync）の「警告 → 解決」/After：同期後（✓）.png)
+![sync_resolved](../json_export.png)
 
 ---
 
@@ -180,6 +180,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
