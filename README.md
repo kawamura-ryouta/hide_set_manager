@@ -7,6 +7,10 @@ Blenderでは一時的な非表示操作が多用されますが、
 後から同じ状態を再現することが難しいという課題があります。
 本アドオンは、その非表示状態をセットとして記録し、
 作業の再現性と管理性を向上させます。
+### 1. メイン UI
+<div style="max-width: 800px; margin: auto;">
+  <img src="../README_picture/main_ui.png" style="width: 100%;">
+</div>
 
 ---
 
