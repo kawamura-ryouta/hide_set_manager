@@ -9,7 +9,7 @@ Blenderでは一時的な非表示操作が多用されますが、
 作業の再現性と管理性を向上させます。
 ### 1. メイン UI
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/main_ui.png" style="width: 100%;">
+  <img src="../../README_picture/main_ui.png" style="width: 100%;">
 </div>
 
 ---
