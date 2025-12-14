@@ -27,7 +27,7 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 
 ### 4. 差分同期（Sync）
 **⚠ 差分あり（未同期）**
-![sync_warning](../README画像/差分同期（Sync）の「警告 → 解決」/Before：差分あり（⚠）.png)
+![sync_warning](../README画像/差分が発生するケース.png)
 
 **✓ 同期後（解決）**
 ![sync_resolved](../README画像/差分同期（Sync）の「警告 → 解決」/After：同期後（✓）.png)
@@ -179,6 +179,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
