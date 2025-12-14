@@ -37,7 +37,7 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ---
 
 ### 5. JSON Export
-![json_export](../README画像/JSON Export の画面/JSON Export の画面.png)
+![json_export](../README画像/JSON Export の画面.png)
 
 
 ---
@@ -179,6 +179,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
