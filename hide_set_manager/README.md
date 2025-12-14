@@ -12,7 +12,7 @@ Blender の頂点 / 辺 / 面 / オブジェクトの「非表示状態」をセ
 ---
 
 ### 2. 非表示セットの登録（＋）
-![register_set](../README画像/非表示セットの登録/非表示セットの登録.png)
+![register_set](../README画像/非表示セットの登録.png)
 
 ---
 
@@ -179,6 +179,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
