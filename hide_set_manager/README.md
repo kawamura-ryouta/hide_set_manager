@@ -62,7 +62,7 @@ Blender では編集モードで一時的に隠した要素を保持すること
 
 **After（表示 / トグル適用）**
 <div style="max-width: 800px; margin: auto;">
-  <img src="../README_picture/before_hide.png" style="width: 100%;">
+  <img src="../README_picture/after_hide.png" style="width: 100%;">
 </div>
 
 ---
@@ -205,6 +205,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
