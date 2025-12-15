@@ -44,7 +44,7 @@ hide_set_manager/
 配布用の Blender アドオン ZIP は  
 GitHub **Releases** からダウンロードできます。
 
-ダウンロードした `hide_set_manager.zip` を  
+ダウンロードした **`hide_set_manager.zip`** を  
 Blender の「アドオンをインストール」から追加してください。
 
 ※ 詳細な手順は `hide_set_manager/README.md` を参照してください。
