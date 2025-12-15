@@ -150,21 +150,21 @@ Blender では編集モードで一時的に隠した要素を保持すること
 
 HideSetManager/
 ```
-├─ __init__.py # Blenderにアドオンの入口
+├─ __init__.py       # Blenderにアドオンの入口
 ├─ core/
-│ ├─ registry.py # HideSet・ElementRefのデータモデル（PropertyGroup）
-│ ├─ pid.py # 永続IDレイヤー / PID マップ
-│ ├─ diff.py # 差分同期（Sync / Preview）
-│ ├─ bmesh_ops.py # BMesh操作の共通ラッパ
+│ ├─ registry.py     # HideSet・ElementRefのデータモデル（PropertyGroup）
+│ ├─ pid.py          # 永続IDレイヤー / PID マップ
+│ ├─ diff.py         # 差分同期（Sync / Preview）
+│ ├─ bmesh_ops.py    # BMesh操作の共通ラッパ
 ├─ ui/
-│ ├─ operators.py # 登録 / 適用 / トグル / 同期 / Export などのオペレーター群
-│ ├─ panels.py # UI パネル（編集/オブジェクトモード）
+│ ├─ operators.py    # 登録 / 適用 / トグル / 同期 / Export などのオペレーター群
+│ ├─ panels.py       # UI パネル（編集/オブジェクトモード）
 ├─ utils/
-│ ├─ logging.py # 統一例外ログ（log_exc）
-│ ├─ safe_hidden.py # hide_set / hide_viewport / hide の安全統一処理
-│ ├─ mesh.py # PID操作 / BMeshラッパ / 非表示処理（アドオンの重要コア）
+│ ├─ logging.py      # 統一例外ログ（log_exc）
+│ ├─ safe_hidden.py  # hide_set / hide_viewport / hide の安全統一処理
+│ ├─ mesh.py         # PID操作 / BMeshラッパ / 非表示処理（アドオンの重要コア）
 ├─ data/
-│ └─ serializer.py # JSONエクスポート
+│ └─ serializer.py   # JSONエクスポート
 ```
 
 ---
@@ -205,6 +205,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
