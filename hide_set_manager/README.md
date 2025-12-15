@@ -149,6 +149,7 @@ Blender では編集モードで一時的に隠した要素を保持すること
 ディレクトリ構成：
 
 HideSetManager/
+```
 ├─ __init__.py # Blenderにアドオンの入口
 ├─ core/
 │ ├─ registry.py # HideSet・ElementRefのデータモデル（PropertyGroup）
@@ -164,6 +165,7 @@ HideSetManager/
 │ ├─ mesh.py # PID操作 / BMeshラッパ / 非表示処理（アドオンの重要コア）
 ├─ data/
 │ └─ serializer.py # JSONエクスポート
+```
 
 ---
 
@@ -203,6 +205,7 @@ MIT License
 
 ## 作者（Author）
 kawamura（Hide Set Manager 開発者）
+
 
 
 
